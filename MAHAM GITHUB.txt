@@ -5,11 +5,12 @@ using namespace std;
 int main() {
   string name = "Your Name"; // Replace with your name
   int age = 25; // Replace with your age
+  int num = 0334758383882; // Replace with your age
   string className = "Your Class"; // Replace with your class
 
   cout << "Name: " << name << endl;
   cout << "Age: " << age << endl;
   cout << "Class: " << className << endl;
-
+cout << "Ph #: " << num << endl;
   return 0;
 }
