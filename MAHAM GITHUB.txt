@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  string name = "Your Name"; // Replace with your name
+  int age = 25; // Replace with your age
+  string className = "Your Class"; // Replace with your class
+
+  cout << "Name: " << name << endl;
+  cout << "Age: " << age << endl;
+  cout << "Class: " << className << endl;
+
+  return 0;
+}
